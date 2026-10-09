@@ -1,1 +1,1 @@
-{"client":["BugChecksMixin"],"compatibilityLevel":"JAVA_17","injectors":{"defaultRequire":1},"minVersion":"0.8","package":"com.sodiumlwjglpatch.mixin","required":true}
+{"client":["BugChecksMixin"],"compatibilityLevel":"JAVA_17","injectors":{"defaultRequire":1},"minVersion":"0.8","package":"com.sodiumlwjglpatch.mixin","required":false}
